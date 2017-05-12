@@ -38,7 +38,7 @@ Csikszentmihalyi's eight characteristics of flow:
 
 Ted: [Mihaly Csikszentmihalyi: Flow, the secret to happiness](https://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow) **\(18:51\)**
 
-![Flow Diagram](/assets/states-of-experience-1200w@2x.png)
+![ ](/assets/states-of-experience-1200w@2x.png)
 
 ## Interaction Principles
 
@@ -52,6 +52,5 @@ There are five common interaction principles that software developers often refe
 2. Hogue, David M., Interaction Design Fundamentals. Lynda.com. [https://www.lynda.com/Dreamweaver-tutorials/Welcome/82822/97965-4.html](https://www.lynda.com/Dreamweaver-tutorials/Welcome/82822/97965-4.html)
 3. Thoughts on Interaction Design
 4. The Measure of a Man: Human Factors in Design. Henry Dryfuss. 1966. Accessed 3/27/2017. [http://design.data.free.fr/RUCHE/documents/Ergonomie Henry DREYFUS.pdf](http://design.data.free.fr/RUCHE/documents/Ergonomie Henry DREYFUS.pdf)
-
 
 
